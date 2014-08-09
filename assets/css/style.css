@@ -6108,7 +6108,7 @@ p {
   line-height: 1.714em;
 }
 a {
-  color: #2d91ff;
+  color: #27486d;
   text-decoration: none;
   font-size: 14px;
 }
@@ -6132,7 +6132,7 @@ p.huge {
   color: #4c4c4c;
 }
 .latest-posts a.title {
-  color: #2d91ff;
+  color: #7c848c;
 }
 .latest-posts a.title:hover {
   color: #4c4c4c;
@@ -6246,7 +6246,7 @@ footer > h4 {
   margin-top: -11px;
 }
 a.post-title {
-  color: #2d91ff;
+  color: #7c848c;
 }
 a.post-title:hover {
   color: #4c4c4c;
@@ -6336,7 +6336,7 @@ table thead {
 .btn {
   display: inline-block;
   width: auto;
-  background: #2d91ff;
+  background: #7c848c;
   padding: 0 23px 0 28px;
   -webkit-transition: background 0.3s ease;
   transition: background 0.3s ease;
@@ -6357,7 +6357,7 @@ table thead {
   background: #262626 0 0;
 }
 .btn:focus {
-  background: #2d91ff;
+  background: #7c848c;
 }
 .btn:before {
   content: "";
@@ -6415,7 +6415,7 @@ table thead {
   background: #262626 0 0;
 }
 .btn.btn-inverse:hover {
-  background: #2d91ff;
+  background: #7c848c;
 }
 .btn i {
   font-size: 1.425em;
@@ -6670,7 +6670,7 @@ footer.widget {
   padding: 12px;
   margin-left: 10px;
   display: inline-block;
-  background: #2d91ff;
+  background: #428BCA;
 }
 .social-widget a i {
   margin: 0;
@@ -6821,7 +6821,7 @@ footer section {
   bottom: 0;
   margin: 0 auto;
   z-index: 11;
-  background: #2d91ff;
+  background: #5b5b5b;
   -webkit-transition: background 0.3s ease;
   transition: background 0.3s ease;
 }
@@ -6839,7 +6839,7 @@ footer section {
   background: #262626;
 }
 .arrow-down:focus {
-  background: #2d91ff;
+  background: #5b5b5b;
 }
 /* =========================
    ======= FOOTER ========== */
@@ -6864,7 +6864,7 @@ footer .footer-lower .widget a {
   padding: 12px;
   margin-left: 10px;
   display: inline-block;
-  background: #2d91ff;
+  background: #7c848c;
 }
 footer .footer-lower .widget a i {
   margin: 0;
@@ -7050,7 +7050,7 @@ footer .widget {
   top: 30px;
   height: 30px;
   width: 30px;
-  background: #2d91ff url('../images/sprite.png') no-repeat 0px 0px;
+  background: #7c848c url('../images/sprite.png') no-repeat 0px 0px;
   text-indent: -10000px;
   -webkit-transition: background 0.3s ease;
   transition: background 0.3s ease;
@@ -7280,7 +7280,7 @@ pre {
   box-shadow: none;
 }
 .flexslider .flex-control-paging li a.flex-active {
-  background: #2d91ff;
+  background: #7c848c;
 }
 .flexslider .flex-direction-nav {
   position: absolute;
@@ -7289,7 +7289,7 @@ pre {
 }
 .flexslider .flex-direction-nav .flex-prev,
 .flexslider .flex-direction-nav .flex-next {
-  background: #2d91ff url('http://127.0.0.1:2368/assets/assets/img/sprite.png') no-repeat 0px 0px;
+  background: #7c848c url('http://127.0.0.1:2368/assets/assets/img/sprite.png') no-repeat 0px 0px;
   height: 30px;
   width: 30px;
   opacity: 1;
